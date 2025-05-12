@@ -1,0 +1,3 @@
+ArduinoPinHandleMap.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/arduinobase/src/ArduinoPinHandleMap.cpp \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtwtypes.h

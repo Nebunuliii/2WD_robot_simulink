@@ -1,0 +1,62 @@
+dc_motor_test_data.o: \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/dc_motor_test_data.c \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/dc_motor_test.h \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtwtypes.h \
+ D:/Matlab/simulink/include/rtw_extmode.h \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtwtypes.h \
+ D:/Matlab/simulink/include/sysran_types.h \
+ D:/Matlab/simulink/include/rtw_continuous.h \
+ D:/Matlab/simulink/include/rtw_solver.h \
+ D:/Matlab/simulink/include/rtw_continuous.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h \
+ D:/Matlab/toolbox/target/shared/svd/common/include/MW_PWM.h \
+ D:/Matlab/toolbox/target/shared/svd/common/include/MW_SVD.h \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/dc_motor_test_types.h \
+ D:/Matlab/toolbox/target/shared/svd/common/include/MW_SVD.h \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rt_nonfinite.h \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/MW_target_hardware_resources.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/include/MW_ArduinoHWInit.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h
+
+D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/dc_motor_test.h:
+
+D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtwtypes.h:
+
+D:/Matlab/simulink/include/rtw_extmode.h:
+
+D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtwtypes.h:
+
+D:/Matlab/simulink/include/sysran_types.h:
+
+D:/Matlab/simulink/include/rtw_continuous.h:
+
+D:/Matlab/simulink/include/rtw_solver.h:
+
+D:/Matlab/simulink/include/rtw_continuous.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h:
+
+D:/Matlab/toolbox/target/shared/svd/common/include/MW_PWM.h:
+
+D:/Matlab/toolbox/target/shared/svd/common/include/MW_SVD.h:
+
+D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/dc_motor_test_types.h:
+
+D:/Matlab/toolbox/target/shared/svd/common/include/MW_SVD.h:
+
+D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rt_nonfinite.h:
+
+D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/MW_target_hardware_resources.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/include/MW_ArduinoHWInit.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h:

@@ -1,0 +1,29 @@
+xcp_fifo.o: \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/transport/src/xcp_fifo.c \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/common/xcp_common.h \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtwtypes.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/platform/include/xcp_platform.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/include/xcp_platform_custom.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/transport/src/xcp_fifo.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/platform/default/xcp_mem_config.h
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/common/xcp_common.h:
+
+D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtwtypes.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/platform/include/xcp_platform.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/include/xcp_platform_custom.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/transport/src/xcp_fifo.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/platform/default/xcp_mem_config.h:

@@ -1,0 +1,5 @@
+rtGetInf.o: \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtGetInf.c \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtwtypes.h \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtGetInf.h \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rt_nonfinite.h

@@ -1,0 +1,38 @@
+avrdude: ser_open(): can't open device "//./COM5": Access is denied.
+
+avrdude: ser_drain(): read error: The handle is invalid.
+
+avrdude: ser_send(): write error: sorry no info avail
+avrdude: stk500_send(): failed to send command to serial port
+avrdude: ser_recv(): read error: The handle is invalid.
+
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: ser_send(): write error: sorry no info avail
+avrdude: stk500_send(): failed to send command to serial port
+avrdude: ser_recv(): read error: The handle is invalid.
+
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: ser_send(): write error: sorry no info avail
+avrdude: stk500_send(): failed to send command to serial port
+avrdude: ser_recv(): read error: The handle is invalid.
+
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: ser_send(): write error: sorry no info avail
+avrdude: stk500_send(): failed to send command to serial port
+avrdude: ser_recv(): read error: The handle is invalid.
+
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: ser_send(): write error: sorry no info avail
+avrdude: stk500_send(): failed to send command to serial port
+avrdude: ser_recv(): read error: The handle is invalid.
+
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: ser_send(): write error: sorry no info avail
+avrdude: stk500_send(): failed to send command to serial port
+avrdude: ser_recv(): read error: The handle is invalid.
+
+avrdude: stk500v2_ReceiveMessage(): timeout
+avrdude: stk500v2_getsync(): timeout communicating with programmer
+
+avrdude done.  Thank you.
+

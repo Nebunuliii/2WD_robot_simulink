@@ -1,0 +1,5 @@
+rtGetNaN.o: \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtGetNaN.c \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtwtypes.h \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtGetNaN.h \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rt_nonfinite.h

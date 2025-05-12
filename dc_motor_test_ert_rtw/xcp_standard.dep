@@ -1,0 +1,59 @@
+xcp_standard.o: \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/src/xcp_standard.c \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/common/xcp_common.h \
+ D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtwtypes.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/platform/include/xcp_platform.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/include/xcp_platform_custom.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/include/xcp.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/src/xcp_cfg.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/src/xcp_types.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/transport/include/xcp_transport_internal.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/include/xcp_transport.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/include/xcp.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/platform/default/xcp_mem.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/include/xcp_internal.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/src/xcp_daq.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/src/xcp_standard.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/src/xcp_standard_ext.h \
+ D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/src/xcp_standard_types.h
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/common/xcp_common.h:
+
+D:/Workspace/Projects/2WD_robot_simulink/dc_motor_test_ert_rtw/rtwtypes.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/platform/include/xcp_platform.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/include/xcp_platform_custom.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/include/xcp.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/src/xcp_cfg.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/src/xcp_types.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/transport/include/xcp_transport_internal.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/include/xcp_transport.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/include/xcp.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/platform/default/xcp_mem.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/include/xcp_internal.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/src/xcp_daq.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/src/xcp_standard.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/src/xcp_standard_ext.h:
+
+D:/Matlab/toolbox/coder/xcp/src/target/server/protocol/src/xcp_standard_types.h:
